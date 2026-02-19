@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 Hi, I'm Bebika 👋  <br>BIM student focused on Computer Science and AI.<br><br>Currently building:<br>- Full-stack web projects  <br>- E-commerce systems  <br>- Exploring Flutter & mobile apps  <br>- Learning Data Science & Machine Learning  <br><br>Goal: Pursue a Master’s in AI and build impactful tech products.<br><br>I believe in learning by building.<br>
 
 
