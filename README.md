@@ -1,8 +1,5 @@
-
-# Bebika 👩‍💻<br><br>
-BIM Student <br><br>Learning by building and improving every day.<br><br>
-# 🔍 Focus<br><br>
-Full-stack fundamentals<br><br>Backend & database design<br><br>Problem-solving<br><br>Data basics
+# 💫 About Me:
+Bebika 👩‍💻<br>BIM Student<br>Learning by building and improving every day.<br><br>🔍 Focus<br>Full-stack fundamentals<br>Backend & database design<br>Problem-solving<br>Data basics
 
 
 # 💻 Tech Stack:
